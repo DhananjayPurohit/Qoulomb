@@ -67,15 +67,18 @@
     .cases-slider::before { height: 80%; width: 35%; }
     .burger-menu { display: none; }
     .inside-text span {font-size: 150px;}
+    #comp{display:block}
+    #mob{display:none}
 }
 
 @media (max-width:767px) {
-
+    #comp{display:none}
+    #mob{display:block}
     /*Header*/
     .logo img { height: 60px; }
     #header-wrap.fixed-header .logo img { height: 50px; }
     .cart a i { font-size: 24px; }
-
+    .fl{}
     /*Banner*/
     .fullscreen-banner { min-height: inherit; height: auto !important; }
     .fullscreen-banner .align-center { position: inherit; transform: inherit; padding: 150px 0 100px !important }

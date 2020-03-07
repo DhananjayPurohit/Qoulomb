@@ -78,7 +78,8 @@ section { padding: 80px 0; }
 .letter-space-2 { letter-spacing: 10px; }
 .letter-space-3 { letter-spacing: 15px; }
 
-
+#comp{display:block}
+#mob{display:none}
 /* ------------------------
     Text color
 ------------------------*/
