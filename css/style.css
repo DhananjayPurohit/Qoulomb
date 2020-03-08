@@ -136,7 +136,7 @@ section { padding: 80px 0; }
 .fullscreen-banner .owl-carousel, .fullscreen-banner .owl-stage-outer, .fullscreen-banner .owl-stage, .fullscreen-banner .owl-item, .fullscreen-banner .item { height: 100%; }
 .banner-2{padding: 8rem 0}
 .banner-bg { width: 50%; height: 120%; position: absolute; z-index: -1; right: -50px; top: -10%; border-top-left-radius: 50%; border-bottom-left-radius: 50%; z-index: 9; overflow: hidden; }
-.bnr-title { font-weight: 900; color: transparent; font-size: 6rem; text-align: center; line-height: 6.4rem; background: url("../images/bg/04.png") repeat; background-size: 200px auto; background-position: 40% 50%; -webkit-background-clip: text; position: relative; animation: background-2 10s infinite linear;}
+.bnr-title { font-weight: 900; color: transparent; font-size: 5rem; text-align: center; line-height: 6.4rem; background: url("../images/bg/04.png") repeat; background-size: 200px auto; background-position: 40% 50%; -webkit-background-clip: text; position: relative; animation: background-2 10s infinite linear;}
 .bnr-title.large { font-size: 25rem; line-height: 25rem }
 .bnr-title2 { background: -webkit-linear-gradient(transparent, transparent), url(../images/bg/bubbles.png) repeat; background-size: 200px auto; -webkit-text-fill-color: transparent; -webkit-background-clip: text; animation: background 10s infinite linear; font-size: 110px; line-height: 130px; background-color: #0a1245; }
 .error-page .bnr-title2 { font-size: 300px; line-height: 300px; }

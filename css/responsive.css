@@ -67,8 +67,7 @@
     .cases-slider::before { height: 80%; width: 35%; }
     .burger-menu { display: none; }
     .inside-text span {font-size: 150px;}
-    #comp{display:block}
-    #mob{display:none}
+    
 }
 
 @media (max-width:767px) {
