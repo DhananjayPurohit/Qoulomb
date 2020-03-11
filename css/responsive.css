@@ -10,9 +10,11 @@
     .navbar-nav .nav-link { padding: 0 12px !important }
     .bnr-title.large { font-size: 18rem; line-height: 20rem; }
     .bnr-title { font-size: 7rem; line-height: 9rem; }
+    #mobo{ display:none}
 }
 
 @media (max-width:992px) {
+    
     h1, .h1 { font-size: 3.125rem; line-height: 3.200rem; }
     h2, .h2 { font-size: 2.25rem; line-height: 2.75rem; }
     h3, .h3 { font-size: 1.875rem; line-height: 2.175rem; }
