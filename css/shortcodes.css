@@ -28,7 +28,7 @@
 .title { position: relative; margin-bottom: 0; }
 .section-title h2 span{color: #ef8511; font-weight: 500;}
 .dark-bg .title, .theme-bg .title, .theme-bg .section-title h6 { color: #ffffff }
-.section-title h6 { position: relative; display: inline-block; font-weight: 600; text-transform: uppercase; margin-bottom: 10px; background: linear-gradient(135deg, #131d60 32.5%, #8046f4 45%, #fb3e7d 60%, #ef8511 70%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.section-title h6 { position: relative; display: inline-block; font-weight: 600; text-transform: uppercase; margin-bottom: 10px; background: linear-gradient(135deg, #131d60 32.5%, #8046f4 45%, #fb3e7d 60%, #ef8511 70%); -webkit-background-clip: text; -webkit-text-fill-color: #ffffff; }
 .section-title h2 { margin-bottom: 15px; }
 
 
