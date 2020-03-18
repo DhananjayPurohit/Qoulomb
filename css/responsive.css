@@ -32,12 +32,12 @@
     .navbar-nav .nav-link, .header-2 .navbar-nav .nav-link { padding: 10px !important; color: #ffffff; }
     .navbar-nav .nav-link:hover, .navbar-nav .nav-item .nav-link.active, .navbar-nav .nav-item.show .nav-link { background: rgba(255, 255, 255, 0.030) !important; }
     .navbar-collapse { background: #0a1245; max-height: 400px; left: 0; padding: 10px; position: absolute; z-index: 99; top: 80px; width: 100%; overflow: auto; border: medium none; -webkit-box-shadow: 7px 5px 30px rgba(72, 73, 121, 0.15); -moz-box-shadow: 7px 5px 30px rgba(72, 73, 121, 0.15); box-shadow: 7px 5px 30px rgba(72, 73, 121, 0.15); }
-    .navbar-toggler span { width: 80%; height: 2px; margin: 5px auto; display: block; background: #ffffff; }
+    .navbar-toggler span { width: 80%; height: 2px; margin: 5px auto; display: block; background: #131d60; }
     .navbar-nav .dropdown-toggle::after { background: none !important; position: absolute; border: none; top: 50%; right: 0; margin: -0.5em 0 0 0; padding: 0; width: 2em; height: 1.4em; font-size: 1.25rem; line-height: 1.2em; text-align: center; }
     .navbar-nav .dropdown-toggle::after { content: '+'; }
     .navbar-nav .dropdown.show > .dropdown-toggle::after { content: '-'; }
     .navbar-nav .dropdown-submenu .dropdown-toggle::after { right: -20px; width: auto; height: auto; margin-right: 0; }
-    .navbar-nav .dropdown > .dropdown-menu { background: #12141d; }
+    .navbar-nav .dropdown > .dropdown-menu { background: #ffffff; }
     .header-2 .navbar-toggler span { background: #0a1245 }
     .header-2 #header-wrap.fixed-header .navbar-toggler span { background: #ffffff }
     .header .right-nav { position: absolute; right: 60px; top: 50%; transform: translateY(-50%); }
