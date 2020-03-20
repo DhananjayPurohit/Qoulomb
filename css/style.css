@@ -100,6 +100,7 @@ section { padding: 80px 0; }
 .gradient-bg {background: #0083ff; background: linear-gradient(-58deg, #0083ff 70%, #00f2aa 100%);}
 
 
+.context { width: 70vw; }
 /* ------------------------
     Mouse Cursor
 ------------------------*/
